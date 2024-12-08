@@ -1,0 +1,34 @@
+{
+  "round": "PRIMEIRA RODADA",
+  "matches": [
+    {
+      "time": "19:00",
+      "team1": { "acronym": "MNG", "score": "W", "points": "0/3", "name": "Monogâmicos", "color": "orange" },
+      "team2": { "acronym": "BRICS", "score": "L", "points": "0/3", "name": "BRICS", "color": "cyan" }
+    },
+    {
+      "time": "20:00",
+      "team1": { "acronym": "CDA", "score": "L", "points": "1/3", "name": "Caixa Dagua", "color": "red" },
+      "team2": { "acronym": "DIDDY", "score": "W", "points": "2/3", "name": "Diddy e Amigos", "color": "purple" }
+    },
+    {
+      "time": "20:00",
+      "team1": { "acronym": "CBC", "score": "", "points": "1/3", "name": "CBC Academy", "color": "red" },
+      "team2": { "acronym": "GW", "score": "", "points": "2/3", "name": "Mestras do AFK", "color": "purple" }
+    },
+    {
+      "time": "20:00",
+      "team1": { "acronym": "KC", "score": "", "points": "1/3", "name": "Vaqueiro ESPORTS", "color": "red" },
+      "team2": { "acronym": "GW", "score": "", "points": "2/3", "name": "URÊA MODA INTIMA", "color": "purple" }
+    },
+    {
+      "time": "20:00",
+      "team1": { "acronym": "KC", "score": "", "points": "1/3", "name": "FREQUENTABAR", "color": "red" },
+      "team2": { "acronym": "GW", "score": "", "points": "2/3", "name": "SIMIL DA NOVA GERAÇÃO", "color": "purple" }
+    },{
+      "time": "20:00",
+      "team1": { "acronym": "KC", "score": "", "points": "1/3", "name": "Vaqueiro ESPORTS", "color": "red" },
+      "team2": { "acronym": "GW", "score": "", "points": "2/3", "name": "URÊA MODA INTIMA", "color": "purple" }
+    }
+  ]
+}
